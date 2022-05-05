@@ -4,11 +4,11 @@
 
 Hello there, I am <b>Gio</b>, a soon-to-be front-end webdeveloper!
 
-After studying a decent amount of HTML and CSS, I am now learning JavaScript at [freeCodeCamp](https://www.freecodecamp.org). <br>
+After studying a decent amount of HTML and CSS, I am now learning JavaScript at [freeCodeCamp](https://www.freecodecamp.org). You can check some of the projects I've developed down below.
 
-I am also participating on a a project called [Hiring Coders #3](https://www.hiringcoders.com.br/), powered by [VTEX Company](https://vtex.com/), where I'm hoping to learn ReactJS, AWS and vtex.io technologies!
+Currently, I am also participating on a project called [Hiring Coders #3](https://www.hiringcoders.com.br/), powered by [VTEX Company](https://vtex.com/), where I'm hoping to learn ReactJS, AWS and vtex.io technologies!
 
-Feel free to [contact me](https://www.linkedin.com/in/giooz) anytime!
+How about we work together? ☕ Feel free to [contact me](https://www.linkedin.com/in/giooz) anytime!
 
 <br>
 
