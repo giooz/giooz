@@ -1,6 +1,6 @@
 <img src="https://github.com/giooz/giooz/blob/a93a2f06ebf4f4eeeab90f38bd8eb6e93ac51fd7/header.png" href="https://github.com/giooz" alt="ChillHop Racoon Just Chillin" width="100%">
 
-## About me
+# Welcome!
 
 Hello there, I am <b>Gio</b>, a soon-to-be front-end webdeveloper!
 
