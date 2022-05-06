@@ -4,11 +4,11 @@
 
   <p>Hello there, I am <b>Gio</b>, a soon-to-be front-end webdeveloper.</p>
 
-  <p>After studying a decent amount of HTML and CSS, I am now learning JavaScript at [freeCodeCamp](https://www.freecodecamp.org). You can check some of the projects I've developed down below.</p>
+  <p>After studying a decent amount of HTML and CSS, I am currently learning JavaScript at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. You can check some of the projects I've developed down below.</p>
 
-  <p>Currently, I am also participating on a project called [Hiring Coders #3](https://www.hiringcoders.com.br/), powered by [VTEX Company](https://vtex.com/), where I'm hoping to learn ReactJS, AWS and vtex.io technologies.</p>
+  <p>I am also participating on a project called <a href="https://www.hiringcoders.com.br">Hiring Coders #3</a>, powered by <a href="https://vtex.com/">VTEX Company</a>, where I'm hoping to learn ReactJS, AWS and vtex.io technologies.</p>
 
-  <p>How about we work together? ☕ Feel free to [contact me](https://www.linkedin.com/in/giooz) anytime!</p>
+  <p>How about we work together? ☕ Feel free to <a href="https://www.linkedin.com/in/giooz">contact me</a> anytime!</p>
 
 
 <br>
