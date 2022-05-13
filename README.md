@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/giooz">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giooz&theme=tokyonight&layout=compact&langs_count=5">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giooz&theme=tokyonight&layout=compact&langs_count=6">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=giooz&show_icons=true&theme=tokyonight">
   </a>
 </div>
