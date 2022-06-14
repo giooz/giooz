@@ -6,8 +6,6 @@
 
   <p>After studying a decent amount of HTML and CSS, I am currently learning JavaScript at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. You can check some of the projects I've developed down below.</p>
 
-  <p>I am also participating on a project called <a href="https://www.hiringcoders.com.br">Hiring Coders #3</a>, powered by <a href="https://vtex.com/">VTEX Company</a>, where I'm hoping to learn ReactJS, AWS and vtex.io technologies.</p>
-
   <p>How about we work together? ☕ Feel free to <a href="https://www.linkedin.com/in/giooz">contact me</a> anytime!</p>
 
 
