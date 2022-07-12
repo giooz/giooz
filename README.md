@@ -6,7 +6,7 @@
 
   <p>After studying a decent amount of HTML and CSS, I am currently learning JavaScript at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. You can check some of the projects I've developed down below.</p>
 
-  <p>How about we work together? ☕ Feel free to <a href="https://www.linkedin.com/in/giooz">contact me</a> anytime!</p>
+  <p>How about we work together? ☕ Feel free to <a href="https://www.linkedin.com/in/giovanni-zapparoli">contact me</a> anytime!</p>
 
 
 <br>
