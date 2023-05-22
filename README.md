@@ -4,7 +4,7 @@
 
   <p>Hello there, I am <b>Gio</b>, a soon-to-be front-end webdeveloper.</p>
 
-  <p>After studying a good amount of HTML, CSS, and JavaScript, I am currently learning React at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. You can check some of the projects I've developed down below.</p>
+  <p>After studying a good amount of HTML, CSS and JavaScript, I am currently learning React at <a href="https://www.freecodecamp.org">freeCodeCamp</a> and <a href="https://www.scrimba.com">Scrimba</a>. You can check some of the projects I've developed so far down below.</p>
 
   <p>How about we work together? ☕ Feel free to <a href="https://www.linkedin.com/in/giovanni-zapparoli">contact me</a> anytime!</p>
 
